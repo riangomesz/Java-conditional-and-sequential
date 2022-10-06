@@ -1,3 +1,6 @@
+"Programa que recebe um valor e entrega ao usuário o número ao quadrado e ao cubo. A raíz quadrada e cúbica do valor
+
+
 import java.util.Scanner;
 import java.lang.Math;
 import java.text.DecimalFormat;
