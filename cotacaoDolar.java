@@ -1,3 +1,6 @@
+# Program that receives information on the current price \dolar, the amount of dollars you have. And converts the value into R$
+
+
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
