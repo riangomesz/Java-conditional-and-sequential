@@ -1,3 +1,6 @@
+# Programa que recebe A, B e C para calcular as raízes da equação e depois entrega o Valor de Delta se tiver sido positivo. Senão informa o usuário que não pode 
+# calcular pois está negativo
+
 import java.util.Scanner;
 import java.lang.Math;
 import java.text.DecimalFormat;
