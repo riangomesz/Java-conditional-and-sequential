@@ -1,3 +1,6 @@
+# Código que recebe duas notas informadas pelo o usuário e diz se o foi aprovado ou reprovado.
+
+
 import java.util.Scanner;
 
 public class Main
