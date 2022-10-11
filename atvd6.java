@@ -1,3 +1,6 @@
+# Programa que recebe dois valores e diz qual é o maior e e o menor entre eles.
+
+
 import java.util.Scanner;
 
 public class Main
@@ -8,7 +11,7 @@ public class Main
 		
 	    System.out.println("Informe o 1º valor: ");
 	    num1 = leitor.nextInt();
-	    System.out.println("Informe o 1º valor: ");
+	    System.out.println("Informe o 2º valor: ");
 	    num2 = leitor.nextInt();
 	    
 	    if(num1>num2){
