@@ -1,3 +1,7 @@
+# Programa que recebe três notas informadas pelo usuário e calcula baseando-se na média, para dizer se ele foi aprovado, reprovado ou está no exame.
+
+
+
 import java.util.Scanner;
 
 public class Main
