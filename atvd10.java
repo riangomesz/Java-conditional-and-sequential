@@ -1,3 +1,6 @@
+# Código que recebe o peso e a altura Do usuário e diz se a pessoa está com um peso normal - abaixo Do peso - sobrepeso - obeso - obesidade mórbida com base 
+# nos números informados 
+
 import java.util.Scanner;
 
 public class Main
