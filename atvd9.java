@@ -1,3 +1,5 @@
+# Programna que recebe três medidas e retorna ao usuário se as medidas informadas formam um triângulo ou não
+
 import java.util.Scanner;
 public class Main
 {
